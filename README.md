@@ -21,7 +21,9 @@ To deploy a vulnerable ("honeypot") Windows 10 virtual machine in Microsoft Azur
 
 <p align="center">
 Virtual Machine: <br/>
+    <img src="https://imgur.com/a/5lBIZ5g#0bMvPdu.png" alt="Virtual Machine"/>
 <img src="https://imgur.com/u7kyiUn.png" alt="Virtual Machine"/>
+    
 <br />
 </p>
 
